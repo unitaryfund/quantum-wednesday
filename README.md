@@ -18,7 +18,7 @@ Hope to see you there!
 ## Meetings
 
 | Date | Presenter | Title | Links |
-| ---- | --------- | ----- | ----- 
+| ---- | --------- | ----- | ----- |
 | 3/8/2022 | Nate | Hypothesis Testing for Error Mitigation: How to Evaluate Error Mitigation | [paper](https://arxiv.org/abs/2301.02690) |
 | 2/22/2022 | Vincent | Quantum circuit debugging and sensitivity analysis via local inversions | [paper](https://arxiv.org/abs/2204.06056) |
 | 2/15/2023 | Misty | Quantum error mitigation as a universal error-minimization technique: applications from NISQ to FTQC eras | [paper](https://arxiv.org/abs/2010.03887), [slides](https://docs.google.com/presentation/d/10u1XHHcCNDasvHnO6FlJOhaZ-onbjkbUWS-JlJg3qHI/)|
