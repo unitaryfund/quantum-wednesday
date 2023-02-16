@@ -18,7 +18,7 @@ Hope to see you there!
 ## Meetings
 
 | Date | Presenter | Title | Links |
-| ---- | --------- | ----- | ----- |
+| ---- | --------- | ----- | ----- 
 | 3/8/2022 | Nate | Hypothesis Testing for Error Mitigation: How to Evaluate Error Mitigation | [paper](https://arxiv.org/abs/2301.02690) |
 | 2/22/2022 | Vincent | Quantum circuit debugging and sensitivity analysis via local inversions | [paper](https://arxiv.org/abs/2204.06056) |
 | 2/15/2023 | Misty | Quantum error mitigation as a universal error-minimization technique: applications from NISQ to FTQC eras | [paper](https://arxiv.org/abs/2010.03887), [slides](https://docs.google.com/presentation/d/10u1XHHcCNDasvHnO6FlJOhaZ-onbjkbUWS-JlJg3qHI/)|
@@ -82,7 +82,7 @@ Hope to see you there!
 | 2/3/2021 | Balint Koczor | Exponential Error Suppression for Near-Term Quantum Devices | |
 | 1/27/2021 | Tudor | Quantum Thermo | |
 | 1/14/2021 | Will | Draft run through of UF presentation deck | |
-| 1/7/2021 | Andrea | Free Research Chat | [doc](https://docs.google.com/document/d/1s2kKmCD4XMyLj84wUyyIk6WRZ_Ho7VtOsbi2WGrErrU/) |
+| 1/7/2021 | Andrea | Free Research Chat | |
 | 12/10/2020 | Daniel Burgarth | Control vs Noise | |
 | 11/5/2020 | Andrea | Error mitigation via verified phase estimation | [paper](https://arxiv.org/abs/2010.02538), [slides](https://drive.google.com/file/d/11L-c3tIbD-Wf37LZr5tRyyOrzTJAzKfW/) |
 | 10/29/2020 | Ryan | Quantum error mitigation as a universal error-minimization technique: applications from NISQ to FTQC eras | [paper](https://arxiv.org/abs/2010.03887), [slides](https://docs.google.com/presentation/d/1Hrprrm0KOGB29y_G9nH075G96SFvecM-6r-FrDdil5Q/) |
@@ -113,7 +113,7 @@ Hope to see you there!
 | 3/10/2020 | Tudor | Natural Gradients: Classical and Quantum (part 2) | [paper](https://arxiv.org/abs/1909.02108), [slides](https://drive.google.com/file/d/1rRwDH3jwoDGyZmO4kFECcJ0_8MMT5v0J/view) |
 | 3/3/2020 | Tudor | Natural Gradients: Classical and Quantum | [paper](https://arxiv.org/abs/1909.02108), [slides](https://drive.google.com/file/d/1rRwDH3jwoDGyZmO4kFECcJ0_8MMT5v0J/view) |
 | 2/25/2020 | Will | Practical Quantum Error Mitigation for Near-Future Applications | [paper](https://arxiv.org/abs/1712.09271), [slides](https://docs.google.com/presentation/d/1PyrOIsyilJ_7mr-3PQg3ZQfva_AO1MHn5_v5MErQP7E/) |
-| 2/18/2020 | Tudor + Andrea | Update on adaptive exponential fitting research | [recording](https://unitary.zoom.us/rec/share/58ltC42qq0FJQ4mWyErbR6MCQ52_eaa81yYXqPALnxqLUdejzqfA9Sg1N2ne2WWA) |
+| 2/18/2020 | Tudor + Andrea | Update on adaptive exponential fitting research |  |
 | 2/11/2020 | Yousef | Probabilistic Error Cancellation | [paper](https://arxiv.org/abs/1612.02058), [slides](https://docs.google.com/presentation/d/1JoFjtXkffLEnvYRVkpw63Agw7iZE8YNzzwnOGJ60wbc/)  |
 | 2/4/2020 | Andrea | Quantum Transfer Learning | [paper](https://arxiv.org/abs/1912.08278) |
 
