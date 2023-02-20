@@ -29,14 +29,14 @@ Hope to see you there!
 | 1/11/2023 | Dan | Qrack simulations of the 2019 Google quantum supremacy experiment | [slides***](https://docs.google.com/presentation/d/1vBpoOIDgKLQJTlGOO_pMWMQ_aU8vi50M093oJ31Gas0/)|
 | 1/4/2023 | youtube | Ultimate potential and limitations of quantum error mitigation | [youtube](https://www.youtube.com/watch?v=ZMB5DHfludw) |
 | 12/14/2022 | bubakazouba1 | Subspace expansion/shadow tomography | [paper](https://arxiv.org/abs/2203.07263) |
-| 11/30/2022 | Misty | Q2B Presentation Preview | [slides***](https://docs.google.com/presentation/d/13EZlBUvlvYUpA1CegppBajm8EKMkRMlO/)|
+| 11/30/2022 | Misty | Q2B Presentation Preview | [slides](https://docs.google.com/presentation/d/13EZlBUvlvYUpA1CegppBajm8EKMkRMlO/)|
 | 11/23/2022 | Nathan | QOSS Survey: Community, Diversity & Inclusion | [results](https://unitary.fund/posts/2022_survey_results.html) |
 | 11/16/2022 | Nate | Efficiently improving the performance of noisy quantum computers | [paper](https://arxiv.org/abs/2201.10672), [slides](https://drive.google.com/file/d/1NpphNhBLGo4CU6ehvTVW-JsHU7qBrFmq/) |
 | 11/9/2022 | Nathan | Quantum Open Source Software Results | [results](https://unitary.fund/posts/2022_survey_results.html) |
 | 10/26/2022 | Christian Staufenbiel | DevOps for Jupyter Notebooks in QuTiP - GSoC '22 | [project](https://gist.github.com/christian512/41ec4461f70b28c4f9ebc56fc4eae5cb) |
 | 9/21/2022 | Peter P. Orth | Error-Mitigated Simulation of Quantum Many-Body Scars on Quantum Computers with Pulse-Level Control | [paper](https://arxiv.org/abs/2203.08291) |
 | 9/14/2022 | Ben McDonough | Improving the Scalability of  Scalable Probabilistic Error Cancellation |  |
-| 9/7/2022 | Misty | Doubling the size of quantum simulators by entanglement forging | [paper](https://arxiv.org/abs/2104.10220)|
+| 9/7/2022 | Misty | Doubling the size of quantum simulators by entanglement forging | [paper](https://arxiv.org/abs/2104.10220), [slides](https://docs.google.com/presentation/d/1VV4bj0Tmf8ndb_EPEsWyskXczi_eMX_OnOKS0n93kgU/edit#slide=id.g15e113c57cd_0_60)
 | 8/24/2022 | Nate | Poetry with Mitiq | [project](https://python-poetry.org/), [slides](https://docs.google.com/presentation/d/1OBxlXixbVobO-qI9ypqct1VCdKFqy3tTnVxVwNwnmoY/) |
 | 8/17/2022 | Nathan | Office hour | |
 | 7/13/2022 | Leonardo Disilvestro | OpenQAOA: An Open Source SDK for QAOA | [paper](https://arxiv.org/abs/2210.08695) |
@@ -45,7 +45,7 @@ Hope to see you there!
 | 6/15/2022 | Dan | unitaryHACK office hours | |
 | 6/8/2022 | Misty | unitaryHACK Mitiq Office Hours | |
 | 5/25/2022 | Mitiq team | Mitiq: Examples & general discussion | |
-| 5/18/2022 | Misty | Out-of-distribution generalization for learning quantum dynamics | [paper](https://arxiv.org/pdf/2204.10268.pdf), [slides***](https://docs.google.com/presentation/d/10MUGf_dF_Q5MwYH6KFKueyPPj58k2CAbJqFutmNsHMk/)|
+| 5/18/2022 | Misty | Out-of-distribution generalization for learning quantum dynamics | [paper](https://arxiv.org/pdf/2204.10268.pdf), [slides](https://docs.google.com/presentation/d/10MUGf_dF_Q5MwYH6KFKueyPPj58k2CAbJqFutmNsHMk/)|
 | 4/27/2022 | Metriq team | Metriq Submission Launch Party | [project](https://metriq.info) |
 | 3/30/2022 | Andrea | Magic states and T-gadgets with Qiskit | |
 | 3/16/2022 | Andrea | Error mitigation for universal gates on encoded qubits | [paper](https://arxiv.org/abs/2103.04915), [slides](https://docs.google.com/presentation/d/1iciSinpgpEK02PDFdVp1vus1_BFTI1FDZuktRqVrjmo/) |
