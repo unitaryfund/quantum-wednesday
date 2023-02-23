@@ -30,9 +30,9 @@ Hope to see you there!
 | 1/4/2023 | youtube | Ultimate potential and limitations of quantum error mitigation | [youtube](https://www.youtube.com/watch?v=ZMB5DHfludw) |
 | 12/14/2022 | bubakazouba1 | Subspace expansion/shadow tomography | [paper](https://arxiv.org/abs/2203.07263) |
 | 11/30/2022 | Misty | Q2B Presentation Preview | [slides](https://docs.google.com/presentation/d/13EZlBUvlvYUpA1CegppBajm8EKMkRMlO/)|
-| 11/23/2022 | Nathan | QOSS Survey: Community, Diversity & Inclusion | [results](https://unitary.fund/posts/2022_survey_results.html) |
+| 11/23/2022 | Nathan | QOSS Survey: Community, Diversity & Inclusion | [results](https://unitary.fund/posts/2022_survey_results.html) [slides](https://docs.google.com/presentation/d/1beLF9pClDYeJnzbTjc2V7O86Ze3PgMI78J4ZWpkOKW0/) |
 | 11/16/2022 | Nate | Efficiently improving the performance of noisy quantum computers | [paper](https://arxiv.org/abs/2201.10672), [slides](https://drive.google.com/file/d/1NpphNhBLGo4CU6ehvTVW-JsHU7qBrFmq/) |
-| 11/9/2022 | Nathan | Quantum Open Source Software Results | [results](https://unitary.fund/posts/2022_survey_results.html) |
+| 11/9/2022 | Nathan | Quantum Open Source Software Results | [results](https://unitary.fund/posts/2022_survey_results.html) [slides](https://docs.google.com/presentation/d/1beLF9pClDYeJnzbTjc2V7O86Ze3PgMI78J4ZWpkOKW0/) |
 | 10/26/2022 | Christian Staufenbiel | DevOps for Jupyter Notebooks in QuTiP - GSoC '22 | [project](https://gist.github.com/christian512/41ec4461f70b28c4f9ebc56fc4eae5cb) |
 | 9/21/2022 | Peter P. Orth | Error-Mitigated Simulation of Quantum Many-Body Scars on Quantum Computers with Pulse-Level Control | [paper](https://arxiv.org/abs/2203.08291) |
 | 9/14/2022 | Ben McDonough | Improving the Scalability of  Scalable Probabilistic Error Cancellation |  |
