@@ -36,7 +36,7 @@ Hope to see you there!
 | 10/26/2022 | Christian Staufenbiel | DevOps for Jupyter Notebooks in QuTiP - GSoC '22 | [project](https://gist.github.com/christian512/41ec4461f70b28c4f9ebc56fc4eae5cb) |
 | 9/21/2022 | Peter P. Orth | Error-Mitigated Simulation of Quantum Many-Body Scars on Quantum Computers with Pulse-Level Control | [paper](https://arxiv.org/abs/2203.08291) |
 | 9/14/2022 | Ben McDonough | Improving the Scalability of  Scalable Probabilistic Error Cancellation |  |
-| 9/7/2022 | Misty | Doubling the size of quantum simulators by entanglement forging | [paper](https://arxiv.org/abs/2104.10220), [slides](https://docs.google.com/presentation/d/1VV4bj0Tmf8ndb_EPEsWyskXczi_eMX_OnOKS0n93kgU/edit#slide=id.g15e113c57cd_0_60)
+| 9/7/2022 | Misty | Doubling the size of quantum simulators by entanglement forging | [paper](https://arxiv.org/abs/2104.10220), [slides](https://docs.google.com/presentation/d/1VV4bj0Tmf8ndb_EPEsWyskXczi_eMX_OnOKS0n93kgU/)
 | 8/24/2022 | Nate | Poetry with Mitiq | [project](https://python-poetry.org/), [slides](https://docs.google.com/presentation/d/1OBxlXixbVobO-qI9ypqct1VCdKFqy3tTnVxVwNwnmoY/) |
 | 8/17/2022 | Nathan | Office hour | |
 | 7/13/2022 | Leonardo Disilvestro | OpenQAOA: An Open Source SDK for QAOA | [paper](https://arxiv.org/abs/2210.08695) |
