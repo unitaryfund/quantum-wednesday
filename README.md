@@ -71,7 +71,7 @@ Hope to see you there!
 | 6/16/2021 | | Mitiq paper draft | |
 | 6/2/2021 | Dan + Vincent | Metriq: State-of-the-art in quantum benchmarks | [slides](https://docs.google.com/presentation/d/1qicprSBv9Bn1N3sNfO5-hgiB_skcVKWWzsugG9Qsfgo/) |
 | 5/12/2021 | | Mitiq paper v2 resubmission | |
-| 4/21/2021 | Filip Maciejewski| Modeling and mitigation of realistic readout noise with applications to QAOA | [repo](https://github.com/fbm2718/QREM), [slides](https://drive.google.com/file/d/1HF0L8KKjQ6KB6TRQe_LCJyySFPAdfz79/) |
+| 4/21/2021 | Filip Maciejewski| Modeling and mitigation of realistic readout noise with applications to QAOA | [repo](https://github.com/fbm2718/QREM) |
 | 4/7/2021 | Sarah | Some Size and Structure Metrics for Quantum Software | [paper](https://arxiv.org/abs/2103.08815), [slides](https://docs.google.com/presentation/d/1U-W4szYjVFELMBaI9K7uXCqo5HfBRMJ2f_mQW4Sa8BQ/) |
 | 3/31/2021 | Tudor | Predicting Many Properties of a Quantum System from Very Few Measurements | [paper](https://arxiv.org/abs/2002.08953) |
 | 3/24/2021 | Andrea | Decoding quantum errors with subspace expansions | [paper](https://arxiv.org/abs/1903.05786), [notes](https://drive.google.com/file/d/1J35DVak6vrHqvwrg6l_o9Ao9zoZWwaNi/) |
@@ -85,7 +85,7 @@ Hope to see you there!
 | 1/7/2021 | Andrea | Free Research Chat | |
 | 12/10/2020 | Daniel Burgarth | Control vs Noise | |
 | 11/5/2020 | Andrea | Error mitigation via verified phase estimation | [paper](https://arxiv.org/abs/2010.02538), [slides](https://drive.google.com/file/d/11L-c3tIbD-Wf37LZr5tRyyOrzTJAzKfW/) |
-| 10/29/2020 | Ryan | Quantum error mitigation as a universal error-minimization technique: applications from NISQ to FTQC eras | [paper](https://arxiv.org/abs/2010.03887), [slides](https://docs.google.com/presentation/d/1Hrprrm0KOGB29y_G9nH075G96SFvecM-6r-FrDdil5Q/) |
+| 10/29/2020 | Ryan | Quantum error mitigation as a universal error-minimization technique: applications from NISQ to FTQC eras | [paper](https://arxiv.org/abs/2010.03887) |
 | 10/22/2020 | Sarah | Q# introduction + QIR Spec | [repo](https://github.com/crazy4pi314/uf-qsharp-intro) |
 | 10/15/2020 | Andrea | Hybridizing probabilistic error cancellation and zero-noise extrapolation | [slides](https://drive.google.com/file/d/1eBa8c2mfU95eoOCdptZ0H-g5ei0cyC8l/) |
 | 10/8/2020 | Will | Q4 Planning | |
@@ -107,7 +107,7 @@ Hope to see you there!
 | 4/30/2020 | Nathan | An overview of QuTiP (with pulse-level control of quantum circuits) | [slides](https://drive.google.com/file/d/1vi2AzSduNpHE80Kh27LAFtOb0pLOFQwt/) |
 | 4/23/2020 | Tudor + Yousef | Angle Sampling Discussion | [slides](https://docs.google.com/presentation/d/1C4p3lK38p5dLQl3tARQW6yEAdoPvOKbKr88hHysI7XY/)|
 | 4/16/2020 | Will | Noise tailoring for scalable quantum computation via randomized compiling | [paper](https://arxiv.org/abs/1512.01098), [slides](https://docs.google.com/presentation/d/1ptQjUR4aZvsci-xKnD9luefTg_Ay88fHb5MpJTIwk8o/) |
-| 4/9/2020 | Andrea | Randomized Benchmarking | [slides](https://drive.google.com/file/d/1akAIstTAm0LRl51cDkmPlZV9Jb_xDV6Y/v) |
+| 4/9/2020 | Andrea | Randomized Benchmarking | [slides](https://drive.google.com/file/d/1akAIstTAm0LRl51cDkmPlZV9Jb_xDV6Y/) |
 | 3/31/2020 | Nathan | Open quantum systems and Liouvillian properties | [paper](https://arxiv.org/abs/1702.01853), [slides](https://drive.google.com/file/d/1djDgh6b91j4C2QtFViHdTWlduCnFbbLA/) |
 | 3/17/2020 | Ryan | Benchmarking Noise Extrapolation with OpenPulse | [paper](https://arxiv.org/abs/1909.05219), [slides](https://docs.google.com/presentation/d/1reTw56xp8lQTqpIBnBiwB9CViKohkEpj91xa3eV6oLA/) |
 | 3/10/2020 | Tudor | Natural Gradients: Classical and Quantum (part 2) | [paper](https://arxiv.org/abs/1909.02108), [slides](https://drive.google.com/file/d/1rRwDH3jwoDGyZmO4kFECcJ0_8MMT5v0J/view) |
