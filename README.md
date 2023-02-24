@@ -26,7 +26,7 @@ Hope to see you there!
 | 2/1/2022 | | Social coding | |
 | 1/25/2023 | Andrea | A Polynomial-Time Classical Algorithm for Noisy Random Circuit Sampling | [paper](https://arxiv.org/abs/2211.03999), [slides](https://docs.google.com/presentation/d/1dzyxVgqj-taNoJS94t6mQwGXdWjypI0zjR3YG2y0Gl8/)|
 | 1/18/2023 | Nathan | Quantum simulation of dynamical phase transitions in noisy quantum devices | [paper](https://arxiv.org/abs/2211.08318), [slides](https://docs.google.com/presentation/d/1fMXjncts0nZ7poeRAnwJuCaN_3OGX8DOpakA7r7GYtQ/)|
-| 1/11/2023 | Dan | Qrack simulations of the 2019 Google quantum supremacy experiment | [slides***](https://docs.google.com/presentation/d/1vBpoOIDgKLQJTlGOO_pMWMQ_aU8vi50M093oJ31Gas0/)|
+| 1/11/2023 | Dan | Qrack simulations of the 2019 Google quantum supremacy experiment | [slides](https://docs.google.com/presentation/d/1vBpoOIDgKLQJTlGOO_pMWMQ_aU8vi50M093oJ31Gas0/)|
 | 1/4/2023 | youtube | Ultimate potential and limitations of quantum error mitigation | [youtube](https://www.youtube.com/watch?v=ZMB5DHfludw) |
 | 12/14/2022 | bubakazouba1 | Subspace expansion/shadow tomography | [paper](https://arxiv.org/abs/2203.07263) |
 | 11/30/2022 | Misty | Q2B Presentation Preview | [slides](https://docs.google.com/presentation/d/13EZlBUvlvYUpA1CegppBajm8EKMkRMlO/)|
@@ -73,7 +73,7 @@ Hope to see you there!
 | 5/12/2021 | | Mitiq paper v2 resubmission | |
 | 4/21/2021 | Filip Maciejewski| Modeling and mitigation of realistic readout noise with applications to QAOA | [repo](https://github.com/fbm2718/QREM), [slides](https://drive.google.com/file/d/1HF0L8KKjQ6KB6TRQe_LCJyySFPAdfz79/) |
 | 4/7/2021 | Sarah | Some Size and Structure Metrics for Quantum Software | [paper](https://arxiv.org/abs/2103.08815), [slides](https://docs.google.com/presentation/d/1U-W4szYjVFELMBaI9K7uXCqo5HfBRMJ2f_mQW4Sa8BQ/) |
-| 3/31/2021 | Tudor | Predicting Many Properties of a Quantum System from Very Few Measurements | [paper](https://arxiv.org/abs/2002.08953), [slides***](https://docs.google.com/presentation/d/1QgAGVMQZCjSuFkCeeTe1DBilJUST9dn5YHWOXymnW5s/) |
+| 3/31/2021 | Tudor | Predicting Many Properties of a Quantum System from Very Few Measurements | [paper](https://arxiv.org/abs/2002.08953) |
 | 3/24/2021 | Andrea | Decoding quantum errors with subspace expansions | [paper](https://arxiv.org/abs/1903.05786), [notes](https://drive.google.com/file/d/1J35DVak6vrHqvwrg6l_o9Ao9zoZWwaNi/) |
 | 3/11/2021 | Chen Wang | Protecting a bosonic qubit with autonomous quantum error correction | [paper](https://arxiv.org/abs/2004.09322) |
 | 3/3/2021 | Sarah | Noisy intermediate-scale quantum (NISQ) algorithms | [paper](https://arxiv.org/abs/2101.08448) |
@@ -91,7 +91,7 @@ Hope to see you there!
 | 10/8/2020 | Will | Q4 Planning | |
 | 10/1/2020 | Nathan | Mitigating measurement errors in multi-qubit experiments | [paper](https://arxiv.org/abs/2006.14044), [slides](https://docs.google.com/presentation/d/1tJt_ZY8Yhl4v3eHP94n8uNrC1ENqnMBG82NW6BIaJA4/) |
 | 9/3/2020 | | disussion of arXiv manuscript | |
-| 8/27/2020 | Ryan + Andrea | Discussion of PEC notebooks | [slides***](https://docs.google.com/presentation/d/1ZanabbyPOUa7avnnvRPQXQF8o4VpJiltXAG8sSEwcvE/) |
+| 8/27/2020 | Ryan + Andrea | Discussion of PEC notebooks | [slides](https://docs.google.com/presentation/d/1ZanabbyPOUa7avnnvRPQXQF8o4VpJiltXAG8sSEwcvE/) |
 | 8/13/2020 | | Social coding | [discord](http://discord.unitary.fund) |
 | 8/6/2020 | | dZNE + mitiq paper discussions | |
 | 7/30/2020 | | Review digital ZNE feeback | |
@@ -103,7 +103,7 @@ Hope to see you there!
 | 6/11/2020 | Alex McCaskey | On the XaCC quantum software architecture and the AIDE-QC project | [slides](https://drive.google.com/file/d/1fRBMU4L9bruSV5SeHC8EyMUJWkFL-tzm/) |
 | 5/28/2020 | Clader group | On SchWARMA | [paper](https://arxiv.org/abs/2010.04580) |
 | 5/21/2020 | Tudor | Town hall for new ideas | |
-| 5/14/2020 | Andrea | Mixing error mitigation and classical simulation: existing results and new ideas.| [slides***](https://drive.google.com/open?id=16nLqlEZfSiirhLZme5Up_TPzUwc9X4iF)|
+| 5/14/2020 | Andrea | Mixing error mitigation and classical simulation: existing results and new ideas.| [slides](https://drive.google.com/open?id=16nLqlEZfSiirhLZme5Up_TPzUwc9X4iF)|
 | 4/30/2020 | Nathan | An overview of QuTiP (with pulse-level control of quantum circuits) | [slides](https://drive.google.com/file/d/1vi2AzSduNpHE80Kh27LAFtOb0pLOFQwt/) |
 | 4/23/2020 | Tudor + Yousef | Angle Sampling Discussion | [slides](https://docs.google.com/presentation/d/1C4p3lK38p5dLQl3tARQW6yEAdoPvOKbKr88hHysI7XY/)|
 | 4/16/2020 | Will | Noise tailoring for scalable quantum computation via randomized compiling | [paper](https://arxiv.org/abs/1512.01098), [slides](https://docs.google.com/presentation/d/1ptQjUR4aZvsci-xKnD9luefTg_Ay88fHb5MpJTIwk8o/) |
