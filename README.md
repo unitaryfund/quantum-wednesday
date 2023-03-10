@@ -103,7 +103,7 @@ Hope to see you there!
 | 2020-06-18 | Yousef | Recovering noise-free quantum observables | [paper](https://arxiv.org/abs/1806.07860), [slides](https://docs.google.com/presentation/d/1h5wj-viNujCKEOdUxJV6-m6iu_Bzz50UmvaCl3bmQYg/) |
 | 2020-06-11 | Alex McCaskey | On the XaCC quantum software architecture and the AIDE-QC project | [slides](https://drive.google.com/file/d/1fRBMU4L9bruSV5SeHC8EyMUJWkFL-tzm/) |
 | 2020-05-28 | Clader group | On SchWARMA | [paper](https://arxiv.org/abs/2010.04580) |
-| 5/21/2020 | Tudor | Town hall for new ideas | |
+| 2020-05-21 | Tudor | Town hall for new ideas | |
 | 2020-05-14 | Andrea | Mixing error mitigation and classical simulation: existing results and new ideas.| [slides](https://drive.google.com/open?id=16nLqlEZfSiirhLZme5Up_TPzUwc9X4iF)|
 | 2022-04-30 | Nathan | An overview of QuTiP (with pulse-level control of quantum circuits) | [slides](https://drive.google.com/file/d/1vi2AzSduNpHE80Kh27LAFtOb0pLOFQwt/) |
 | 2020-04-23 | Tudor + Yousef | Angle Sampling Discussion | [slides](https://docs.google.com/presentation/d/1C4p3lK38p5dLQl3tARQW6yEAdoPvOKbKr88hHysI7XY/)|
