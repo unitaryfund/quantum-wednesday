@@ -17,10 +17,11 @@ Hope to see you there!
 
 ## Meetings
 
-| Date | Presenter | Title | Links |
-| ---- | --------- | ----- | ----- |
-| 3/8/2022 | Nate | Hypothesis Testing for Error Mitigation: How to Evaluate Error Mitigation | [paper](https://arxiv.org/abs/2301.02690) |
-| 2/22/2022 | Vincent | Quantum circuit debugging and sensitivity analysis via local inversions | [paper](https://arxiv.org/abs/2204.06056), [slides](https://docs.google.com/presentation/d/1THv95c9IBXVHA-mHen-M5KemCMm7enI6SGlRGLA94dQ/edit?usp=sharing)|
+| Date (MM/DD/YYYY) | Presenter | Title | Links |
+| ----------------- | --------- | ----- | ----- |
+| 3/8/2023 | Nate | Hypothesis Testing for Error Mitigation: How to Evaluate Error Mitigation | [paper](https://arxiv.org/abs/2301.02690), [slides](https://drive.google.com/file/d/1uynJDM1qIxNUPUJQDUYO_IwoZEOnyfSa/) |
+| 3/1/2023 | Purva Thakre | Circuit knitting with classical communication | [paper](https://arxiv.org/abs/2205.00016), [slides](https://drive.google.com/file/d/1QWnmPV2BD9zh57AK829gf7g-E03jEA0y/) |
+| 2/22/2023 | Vincent | Quantum circuit debugging and sensitivity analysis via local inversions | [paper](https://arxiv.org/abs/2204.06056), [slides](https://docs.google.com/presentation/d/1THv95c9IBXVHA-mHen-M5KemCMm7enI6SGlRGLA94dQ/edit?usp=sharing)|
 | 2/15/2023 | Misty | Quantum error mitigation as a universal error-minimization technique: applications from NISQ to FTQC eras | [paper](https://arxiv.org/abs/2010.03887), [slides](https://docs.google.com/presentation/d/10u1XHHcCNDasvHnO6FlJOhaZ-onbjkbUWS-JlJg3qHI/)|
 | 2/8/2023 | Nate | Optimization of Richardson extrapolation for quantum error mitigation | [paper](https://arxiv.org/abs/2201.08080), [slides](https://drive.google.com/file/d/1hDevCZF23omlUTd3VXA2iUxG6a1HLqQb/)|
 | 2/1/2022 | | Social coding | |
