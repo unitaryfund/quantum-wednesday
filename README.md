@@ -24,7 +24,7 @@ Hope to see you there!
 | 2023-02-22 | Vincent | Quantum circuit debugging and sensitivity analysis via local inversions | [paper](https://arxiv.org/abs/2204.06056), [slides](https://docs.google.com/presentation/d/1THv95c9IBXVHA-mHen-M5KemCMm7enI6SGlRGLA94dQ/edit?usp=sharing)|
 | 2023-02-15 | Misty | Quantum error mitigation as a universal error-minimization technique: applications from NISQ to FTQC eras | [paper](https://arxiv.org/abs/2010.03887), [slides](https://docs.google.com/presentation/d/10u1XHHcCNDasvHnO6FlJOhaZ-onbjkbUWS-JlJg3qHI/)|
 | 2023-02-08 | Nate | Optimization of Richardson extrapolation for quantum error mitigation | [paper](https://arxiv.org/abs/2201.08080), [slides](https://drive.google.com/file/d/1hDevCZF23omlUTd3VXA2iUxG6a1HLqQb/)|
-| 2022-02-01 | | Social coding | |
+| 2023-02-01 | | Social coding | |
 | 2023-01-25 | Andrea | A Polynomial-Time Classical Algorithm for Noisy Random Circuit Sampling | [paper](https://arxiv.org/abs/2211.03999), [slides](https://docs.google.com/presentation/d/1dzyxVgqj-taNoJS94t6mQwGXdWjypI0zjR3YG2y0Gl8/)|
 | 2023-01-18 | Nathan | Quantum simulation of dynamical phase transitions in noisy quantum devices | [paper](https://arxiv.org/abs/2211.08318), [slides](https://docs.google.com/presentation/d/1fMXjncts0nZ7poeRAnwJuCaN_3OGX8DOpakA7r7GYtQ/)|
 | 2023-01-11 | Dan | Qrack simulations of the 2019 Google quantum supremacy experiment | [slides](https://docs.google.com/presentation/d/1vBpoOIDgKLQJTlGOO_pMWMQ_aU8vi50M093oJ31Gas0/)|
@@ -48,8 +48,8 @@ Hope to see you there!
 | 2022-05-25 | Mitiq team | Mitiq: Examples & general discussion | |
 | 2022-05-18 | Misty | Out-of-distribution generalization for learning quantum dynamics | [paper](https://arxiv.org/pdf/2204.10268.pdf), [slides](https://docs.google.com/presentation/d/10MUGf_dF_Q5MwYH6KFKueyPPj58k2CAbJqFutmNsHMk/)|
 | 2022-04-27 | Metriq team | Metriq Submission Launch Party | [project](https://metriq.info) |
-| 2022-03-30| Andrea | Magic states and T-gadgets with Qiskit | |
-| 2022-03-16| Andrea | Error mitigation for universal gates on encoded qubits | [paper](https://arxiv.org/abs/2103.04915), [slides](https://docs.google.com/presentation/d/1iciSinpgpEK02PDFdVp1vus1_BFTI1FDZuktRqVrjmo/) |
+| 2022-03-30 | Andrea | Magic states and T-gadgets with Qiskit | |
+| 2022-03-16 | Andrea | Error mitigation for universal gates on encoded qubits | [paper](https://arxiv.org/abs/2103.04915), [slides](https://docs.google.com/presentation/d/1iciSinpgpEK02PDFdVp1vus1_BFTI1FDZuktRqVrjmo/) |
 | 2022-03-09 | | Social coding | [discord](http://discord.unitary.fund) |
 | 2022-02-23 | Mitiq team | Office hour | [discord](http://discord.unitary.fund) |
 | 2022-02-16 | Ryan Levy | Classical Shadows for Quantum Process Tomography on Near-term Quantum Computers | [paper](https://arxiv.org/abs/2110.02965) |
