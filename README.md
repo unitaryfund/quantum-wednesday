@@ -19,6 +19,7 @@ Hope to see you there!
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
+| 2023-03-22 | Qiskit Seminar Series with Kenneth Brown | Quantum Error Correction and Machine Noise | [video link](https://www.youtube.com/watch?v=J0ic8A3u6Ks&list=PLOFEBzvs-Vvr0uEoGFo08n4-WrM_8fft2&index=12)
 | 2023-03-15 | Dan | Benchmarking the QFT/DFT (with Qrack)| [slides](https://docs.google.com/presentation/d/1ArPXUowpt-DsOzxcnfice6mhXQkFMJ32oXvX_QaDrLQ/edit?usp=sharing) |
 | 2023-03-08 | Nate | Hypothesis Testing for Error Mitigation: How to Evaluate Error Mitigation | [paper](https://arxiv.org/abs/2301.02690), [slides](https://drive.google.com/file/d/1uynJDM1qIxNUPUJQDUYO_IwoZEOnyfSa/) |
 | 2023-03-01 | Purva Thakre | Circuit knitting with classical communication | [paper](https://arxiv.org/abs/2205.00016), [slides](https://drive.google.com/file/d/1QWnmPV2BD9zh57AK829gf7g-E03jEA0y/) |
