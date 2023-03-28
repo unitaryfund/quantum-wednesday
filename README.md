@@ -38,7 +38,7 @@ Hope to see you there!
 | 2022-11-09 | Nathan | Quantum Open Source Software Results | [results](https://unitary.fund/posts/2022_survey_results.html) [slides](https://docs.google.com/presentation/d/1beLF9pClDYeJnzbTjc2V7O86Ze3PgMI78J4ZWpkOKW0/) |
 | 2022-10-26 | Christian Staufenbiel | DevOps for Jupyter Notebooks in QuTiP - GSoC '22 | [project](https://gist.github.com/christian512/41ec4461f70b28c4f9ebc56fc4eae5cb) |
 | 2022-09-21 | Peter P. Orth | Error-Mitigated Simulation of Quantum Many-Body Scars on Quantum Computers with Pulse-Level Control | [paper](https://arxiv.org/abs/2203.08291) |
-| 2022-09-14 | Ben McDonough | Improving the Scalability of  Scalable Probabilistic Error Cancellation |  |
+| 2022-09-14 | Ben McDonough | Improving the Scalability of  Scalable Probabilistic Error Cancellation | [slides](https://drive.google.com/file/d/1zcC2ld5x3feIE5BRb3zY4FeN68Odh_d-/) |
 | 2022-09-07 | Misty | Doubling the size of quantum simulators by entanglement forging | [paper](https://arxiv.org/abs/2104.10220), [slides](https://docs.google.com/presentation/d/1VV4bj0Tmf8ndb_EPEsWyskXczi_eMX_OnOKS0n93kgU/)
 | 2022-08-24 | Nate | Poetry with Mitiq | [project](https://python-poetry.org/), [slides](https://docs.google.com/presentation/d/1OBxlXixbVobO-qI9ypqct1VCdKFqy3tTnVxVwNwnmoY/) |
 | 2022-08-17 | Nathan | Office hour | |
