@@ -19,20 +19,22 @@ Hope to see you there!
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
-| 2023-03-22 | Qiskit Seminar Series with Kenneth Brown | Quantum Error Correction and Machine Noise | [video link](https://www.youtube.com/watch?v=J0ic8A3u6Ks&list=PLOFEBzvs-Vvr0uEoGFo08n4-WrM_8fft2&index=12)
-| 2023-03-15 | Dan | Benchmarking the QFT/DFT (with Qrack)| [slides](https://docs.google.com/presentation/d/1ArPXUowpt-DsOzxcnfice6mhXQkFMJ32oXvX_QaDrLQ/edit?usp=sharing) |
+| 2023-04-19 | Nate | Locality and Error Mitigation of Quantum Circuits | [paper](https://arxiv.org/abs/2303.06496) |
+| **2023-04-12** | Nathan | Defining Standard Strategies for Quantum Benchmarks | [paper](https://arxiv.org/abs/2303.02108) |
+| 2023-03-22 | Qiskit Seminar Series with Kenneth Brown | Quantum Error Correction and Machine Noise | [video link](https://www.youtube.com/watch?v=J0ic8A3u6Ks) |
+| 2023-03-15 | Dan | Benchmarking the QFT/DFT (with Qrack)| [slides](https://docs.google.com/presentation/d/1ArPXUowpt-DsOzxcnfice6mhXQkFMJ32oXvX_QaDrLQ/) |
 | 2023-03-08 | Nate | Hypothesis Testing for Error Mitigation: How to Evaluate Error Mitigation | [paper](https://arxiv.org/abs/2301.02690), [slides](https://drive.google.com/file/d/1uynJDM1qIxNUPUJQDUYO_IwoZEOnyfSa/) |
 | 2023-03-01 | Purva Thakre | Circuit knitting with classical communication | [paper](https://arxiv.org/abs/2205.00016), [slides](https://drive.google.com/file/d/1QWnmPV2BD9zh57AK829gf7g-E03jEA0y/) |
-| 2023-02-22 | Vincent | Quantum circuit debugging and sensitivity analysis via local inversions | [paper](https://arxiv.org/abs/2204.06056), [slides](https://docs.google.com/presentation/d/1THv95c9IBXVHA-mHen-M5KemCMm7enI6SGlRGLA94dQ/edit?usp=sharing)|
-| 2023-02-15 | Misty | Quantum error mitigation as a universal error-minimization technique: applications from NISQ to FTQC eras | [paper](https://arxiv.org/abs/2010.03887), [slides](https://docs.google.com/presentation/d/10u1XHHcCNDasvHnO6FlJOhaZ-onbjkbUWS-JlJg3qHI/)|
-| 2023-02-08 | Nate | Optimization of Richardson extrapolation for quantum error mitigation | [paper](https://arxiv.org/abs/2201.08080), [slides](https://drive.google.com/file/d/1hDevCZF23omlUTd3VXA2iUxG6a1HLqQb/)|
+| 2023-02-22 | Vincent | Quantum circuit debugging and sensitivity analysis via local inversions | [paper](https://arxiv.org/abs/2204.06056), [slides](https://docs.google.com/presentation/d/1THv95c9IBXVHA-mHen-M5KemCMm7enI6SGlRGLA94dQ/) |
+| 2023-02-15 | Misty | Quantum error mitigation as a universal error-minimization technique: applications from NISQ to FTQC eras | [paper](https://arxiv.org/abs/2010.03887), [slides](https://docs.google.com/presentation/d/10u1XHHcCNDasvHnO6FlJOhaZ-onbjkbUWS-JlJg3qHI/) |
+| 2023-02-08 | Nate | Optimization of Richardson extrapolation for quantum error mitigation | [paper](https://arxiv.org/abs/2201.08080), [slides](https://drive.google.com/file/d/1hDevCZF23omlUTd3VXA2iUxG6a1HLqQb/) |
 | 2023-02-01 | | Social coding | |
-| 2023-01-25 | Andrea | A Polynomial-Time Classical Algorithm for Noisy Random Circuit Sampling | [paper](https://arxiv.org/abs/2211.03999), [slides](https://docs.google.com/presentation/d/1dzyxVgqj-taNoJS94t6mQwGXdWjypI0zjR3YG2y0Gl8/)|
-| 2023-01-18 | Nathan | Quantum simulation of dynamical phase transitions in noisy quantum devices | [paper](https://arxiv.org/abs/2211.08318), [slides](https://docs.google.com/presentation/d/1fMXjncts0nZ7poeRAnwJuCaN_3OGX8DOpakA7r7GYtQ/)|
-| 2023-01-11 | Dan | Qrack simulations of the 2019 Google quantum supremacy experiment | [slides](https://docs.google.com/presentation/d/1vBpoOIDgKLQJTlGOO_pMWMQ_aU8vi50M093oJ31Gas0/)|
+| 2023-01-25 | Andrea | A Polynomial-Time Classical Algorithm for Noisy Random Circuit Sampling | [paper](https://arxiv.org/abs/2211.03999), [slides](https://docs.google.com/presentation/d/1dzyxVgqj-taNoJS94t6mQwGXdWjypI0zjR3YG2y0Gl8/) |
+| 2023-01-18 | Nathan | Quantum simulation of dynamical phase transitions in noisy quantum devices | [paper](https://arxiv.org/abs/2211.08318), [slides](https://docs.google.com/presentation/d/1fMXjncts0nZ7poeRAnwJuCaN_3OGX8DOpakA7r7GYtQ/) |
+| 2023-01-11 | Dan | Qrack simulations of the 2019 Google quantum supremacy experiment | [slides](https://docs.google.com/presentation/d/1vBpoOIDgKLQJTlGOO_pMWMQ_aU8vi50M093oJ31Gas0/) |
 | 2023-01-04 | youtube | Ultimate potential and limitations of quantum error mitigation | [youtube](https://www.youtube.com/watch?v=ZMB5DHfludw) |
 | 2022-12-14 | bubakazouba1 | Subspace expansion/shadow tomography | [paper](https://arxiv.org/abs/2203.07263) |
-| 2022-11-30 | Misty | Q2B Presentation Preview | [slides](https://docs.google.com/presentation/d/13EZlBUvlvYUpA1CegppBajm8EKMkRMlO/)|
+| 2022-11-30 | Misty | Q2B Presentation Preview | [slides](https://docs.google.com/presentation/d/13EZlBUvlvYUpA1CegppBajm8EKMkRMlO/) |
 | 2022-11-23 | Nathan | QOSS Survey: Community, Diversity & Inclusion | [results](https://unitary.fund/posts/2022_survey_results.html) [slides](https://docs.google.com/presentation/d/1beLF9pClDYeJnzbTjc2V7O86Ze3PgMI78J4ZWpkOKW0/) |
 | 2022-11-16 | Nate | Efficiently improving the performance of noisy quantum computers | [paper](https://arxiv.org/abs/2201.10672), [slides](https://drive.google.com/file/d/1NpphNhBLGo4CU6ehvTVW-JsHU7qBrFmq/) |
 | 2022-11-09 | Nathan | Quantum Open Source Software Results | [results](https://unitary.fund/posts/2022_survey_results.html) [slides](https://docs.google.com/presentation/d/1beLF9pClDYeJnzbTjc2V7O86Ze3PgMI78J4ZWpkOKW0/) |
