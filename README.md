@@ -19,7 +19,8 @@ Hope to see you there!
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
-| **2023-04-19** | Nate | Locality and Error Mitigation of Quantum Circuits | [paper](https://arxiv.org/abs/2303.06496) |
+| **2023-04-26** | Ammar Jahin, Dariel Mok, Preksha Naik, Abdulrahman Sahmoud | RFC: Error Mitigation by Subspace Expansion | [RFC](https://docs.google.com/document/d/1JyQAwiw8BRT_oucZ6tQv0id6UhSdd3df1mNSPpOvu1I/) |
+| 2023-04-19 | Nate | Locality and Error Mitigation of Quantum Circuits | [paper](https://arxiv.org/abs/2303.06496), [slides](https://raw.githubusercontent.com/natestemen/talks/main/2023-04-19-locality/prez.pdf) |
 | 2023-04-12 | Nathan | Defining Standard Strategies for Quantum Benchmarks | [paper](https://arxiv.org/abs/2303.02108), [slides](https://docs.google.com/presentation/d/1QYxCFBS9EhA8A9ESBGAlN0CKxeisAPSR73_6Jrd1kA4/) |
 | 2023-03-22 | Qiskit Seminar Series with Kenneth Brown | Quantum Error Correction and Machine Noise | [video link](https://www.youtube.com/watch?v=J0ic8A3u6Ks) |
 | 2023-03-15 | Dan | Benchmarking the QFT/DFT (with Qrack)| [slides](https://docs.google.com/presentation/d/1ArPXUowpt-DsOzxcnfice6mhXQkFMJ32oXvX_QaDrLQ/) |
