@@ -19,7 +19,8 @@ Hope to see you there!
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
-| 2023-05-03 | Nate | python : typing = discussion | 
+| 2023-05-11 | Dan | Phase transition in magic with random quantum circuits | [paper](https://arxiv.org/abs/2304.10481), [slides](https://docs.google.com/presentation/d/1IzykmJ37atm6pZXpmfhU_u5O5rYSDA3NUE-c8xYq3n8/)|
+| 2023-05-03 | Nate | python : typing = discussion | [slides](https://docs.google.com/presentation/d/18NwREd-MFpVGZAT785hBbeecwpsElQ-GdaoXDbSTIBI/edit?usp=share_link) | 
 | 2023-04-26 | Ammar Jahin, Dariel Mok, Preksha Naik, Abdulrahman Sahmoud | RFC: Error Mitigation by Subspace Expansion | [RFC](https://docs.google.com/document/d/1JyQAwiw8BRT_oucZ6tQv0id6UhSdd3df1mNSPpOvu1I/), [slides](https://docs.google.com/presentation/d/1-_55elR06V0qsgaEUsFd6boUm3tA_J1bWe_JoBgT8pI/edit#slide=id.p)
 | 2023-04-19 | Nate | Locality and Error Mitigation of Quantum Circuits | [paper](https://arxiv.org/abs/2303.06496), [slides](https://raw.githubusercontent.com/natestemen/talks/main/2023-04-19-locality/prez.pdf) |
 | 2023-04-12 | Nathan | Defining Standard Strategies for Quantum Benchmarks | [paper](https://arxiv.org/abs/2303.02108), [slides](https://docs.google.com/presentation/d/1QYxCFBS9EhA8A9ESBGAlN0CKxeisAPSR73_6Jrd1kA4/) |
