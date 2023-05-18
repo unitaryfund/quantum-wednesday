@@ -16,6 +16,7 @@ A QW manager is mainly responsible for finding speakers/filling slots, but there
 
 | Time         | Manager |
 | ------------ | ------- |
+| Jun 2023     | Dan     |
 | May 2023     | Nathan  |
 | Apr 2023     | Nate    |
 | Mar 2023     | Misty   |
