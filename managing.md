@@ -11,13 +11,13 @@ A QW manager is mainly responsible for finding speakers/filling slots, but there
 - Send message on Discord with links to the slides and recording, thanking the speaker.
 - Keep the table in the README up to date with the related links/info.
 
-
 ## History
 
-| Time         | Manager |
-| ------------ | ------- |
-| Jun 2023     | Dan     |
-| May 2023     | Nathan  |
-| Apr 2023     | Nate    |
-| Mar 2023     | Misty   |
-| Jan-Feb 2023 | Nate    |
+| Time         | Manager    |
+| ------------ | ---------- |
+| Jul 2023     | Dan/Nathan |
+| Jun 2023     | Dan        |
+| May 2023     | Nathan     |
+| Apr 2023     | Nate       |
+| Mar 2023     | Misty      |
+| Jan-Feb 2023 | Nate       |

@@ -19,6 +19,7 @@ Hope to see you there!
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
+| 2023-05-28 | Min Li | Classical Shadow and it's implementation on Mitiq | [paper1](https://arxiv.org/abs/2002.08953), [paper2](https://arxiv.org/abs/2011.09636) |
 | 2023-05-23 | Nate | Focussed discussion/forum: unitaryHACK 2023 Q&A  | [unitaryhack.dev](https://unitaryhack.dev/) |
 | 2023-05-11 | Dan | Phase transition in magic with random quantum circuits | [paper](https://arxiv.org/abs/2304.10481), [slides](https://docs.google.com/presentation/d/1IzykmJ37atm6pZXpmfhU_u5O5rYSDA3NUE-c8xYq3n8/)|
 | 2023-05-03 | Nate | python : typing = discussion | [slides](https://docs.google.com/presentation/d/18NwREd-MFpVGZAT785hBbeecwpsElQ-GdaoXDbSTIBI/edit?usp=share_link) | 
