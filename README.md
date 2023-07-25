@@ -19,6 +19,8 @@ Hope to see you there!
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
+| 2023-08-02 | Ali Gedawi | IBM recent quantum error mitigation results and related classical simulations  | [Paper](https://www.nature.com/articles/s41586-023-06096-3)|
+| 2023-07-26 | Srilakshmi Palanikumar | A review of Google's Quantum Supremacy results  | [Paper](https://www.nature.com/articles/s41586-022-05434-1)|
 | 2023-05-28 | Min Li | Classical Shadow and its implementation on Mitiq | [Slides](https://www.dropbox.com/s/ztgh4y9nsgf4rjl/Summer_proposal__Copy_%20%283%29.pdf?dl=0), [Paper](https://arxiv.org/abs/2002.08953)|
 | 2023-05-23 | Nate | Focussed discussion/forum: unitaryHACK 2023 Q&A  | [unitaryhack.dev](https://unitaryhack.dev/) |
 | 2023-05-11 | Dan | Phase transition in magic with random quantum circuits | [paper](https://arxiv.org/abs/2304.10481), [slides](https://docs.google.com/presentation/d/1IzykmJ37atm6pZXpmfhU_u5O5rYSDA3NUE-c8xYq3n8/)|
