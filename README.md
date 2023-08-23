@@ -19,14 +19,15 @@ Hope to see you there!
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
-| 2023-08-23 | Misty Wahl |Fault Tolerant Quantum Error Mitigation| [Slides](https://docs.google.com/presentation/d/1cor_hJ5UaXk_8y3CU4TNKpqHqou280c6bPP5h7s6qfo/edit#slide=id.p), [Paper](https://arxiv.org/abs/2308.05403)|
-| 2023-08-02 | Ali Gedawi | IBM recent quantum error mitigation results and related classical simulations  | [Slides](https://docs.google.com/presentation/d/1qZ7zkizcR2IVX4oLgA9BLIX5btXY4gwxqUSqam6DprQ/edit?usp=sharing), [Paper](https://www.nature.com/articles/s41586-023-06096-3)|
-| 2023-07-26 | Srilakshmi Palanikumar | A review of Google's Quantum Supremacy results  | [Slides](https://docs.google.com/presentation/d/1BHY9GWCFUKXHXifu00JLafg7QtX2MMkPt04vpNYMez0/edit?usp=sharing), [Paper](https://www.nature.com/articles/s41586-022-05434-1)|
-| 2023-05-28 | Min Li | Classical Shadow and its implementation on Mitiq | [Slides](https://www.dropbox.com/s/ztgh4y9nsgf4rjl/Summer_proposal__Copy_%20%283%29.pdf?dl=0), [Paper](https://arxiv.org/abs/2002.08953)|
-| 2023-05-23 | Nate | Focussed discussion/forum: unitaryHACK 2023 Q&A  | [unitaryhack.dev](https://unitaryhack.dev/) |
+| 2023-09-06 | UF Team    | Exploring Quantum Noise | |
+| 2023-08-23 | Misty Wahl | Fault Tolerant Quantum Error Mitigation | [paper](https://arxiv.org/abs/2308.05403), [slides](https://docs.google.com/presentation/d/1cor_hJ5UaXk_8y3CU4TNKpqHqou280c6bPP5h7s6qfo/) |
+| 2023-08-02 | Ali Gedawi | IBM recent quantum error mitigation results and related classical simulations | [paper](https://www.nature.com/articles/s41586-023-06096-3), [slides](https://docs.google.com/presentation/d/1qZ7zkizcR2IVX4oLgA9BLIX5btXY4gwxqUSqam6DprQ/) |
+| 2023-07-26 | Srilakshmi Palanikumar | A review of Google's Quantum Supremacy results | [paper](https://www.nature.com/articles/s41586-022-05434-1), [slides](https://docs.google.com/presentation/d/1BHY9GWCFUKXHXifu00JLafg7QtX2MMkPt04vpNYMez0/) |
+| 2023-05-28 | Min Li | Classical Shadow and its implementation on Mitiq | [paper](https://arxiv.org/abs/2002.08953), [slides](https://www.dropbox.com/s/ztgh4y9nsgf4rjl/Summer_proposal__Copy_%20%283%29.pdf) |
+| 2023-05-23 | Nate | Focussed discussion/forum: unitaryHACK 2023 Q&A  | [`unitaryhack.dev`](https://unitaryhack.dev/) |
 | 2023-05-11 | Dan | Phase transition in magic with random quantum circuits | [paper](https://arxiv.org/abs/2304.10481), [slides](https://docs.google.com/presentation/d/1IzykmJ37atm6pZXpmfhU_u5O5rYSDA3NUE-c8xYq3n8/)|
-| 2023-05-03 | Nate | python : typing = discussion | [slides](https://docs.google.com/presentation/d/18NwREd-MFpVGZAT785hBbeecwpsElQ-GdaoXDbSTIBI/edit?usp=share_link) | 
-| 2023-04-26 | Ammar Jahin, Dariel Mok, Preksha Naik, Abdulrahman Sahmoud | RFC: Error Mitigation by Subspace Expansion | [RFC](https://docs.google.com/document/d/1JyQAwiw8BRT_oucZ6tQv0id6UhSdd3df1mNSPpOvu1I/), [slides](https://docs.google.com/presentation/d/1-_55elR06V0qsgaEUsFd6boUm3tA_J1bWe_JoBgT8pI/edit#slide=id.p)
+| 2023-05-03 | Nate | `python: typing = discussion` | [slides](https://docs.google.com/presentation/d/18NwREd-MFpVGZAT785hBbeecwpsElQ-GdaoXDbSTIBI/) | 
+| 2023-04-26 | Ammar Jahin, Dariel Mok, Preksha Naik, Abdulrahman Sahmoud | RFC: Error Mitigation by Subspace Expansion | [RFC](https://docs.google.com/document/d/1JyQAwiw8BRT_oucZ6tQv0id6UhSdd3df1mNSPpOvu1I/), [slides](https://docs.google.com/presentation/d/1-_55elR06V0qsgaEUsFd6boUm3tA_J1bWe_JoBgT8pI/)
 | 2023-04-19 | Nate | Locality and Error Mitigation of Quantum Circuits | [paper](https://arxiv.org/abs/2303.06496), [slides](https://raw.githubusercontent.com/natestemen/talks/main/2023-04-19-locality/prez.pdf) |
 | 2023-04-12 | Nathan | Defining Standard Strategies for Quantum Benchmarks | [paper](https://arxiv.org/abs/2303.02108), [slides](https://docs.google.com/presentation/d/1QYxCFBS9EhA8A9ESBGAlN0CKxeisAPSR73_6Jrd1kA4/) |
 | 2023-03-22 | Qiskit Seminar Series with Kenneth Brown | Quantum Error Correction and Machine Noise | [video link](https://www.youtube.com/watch?v=J0ic8A3u6Ks) |
