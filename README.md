@@ -19,7 +19,7 @@ Hope to see you there!
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
-| 2023-08-23 | Misty Wahl | IBM recent quantum error mitigation results and related classical simulations  | [Slides](https://docs.google.com/presentation/d/1cor_hJ5UaXk_8y3CU4TNKpqHqou280c6bPP5h7s6qfo/edit#slide=id.p), [Paper](https://arxiv.org/abs/2308.05403)|
+| 2023-08-23 | Misty Wahl |Fault Tolerant Quantum Error Mitigation| [Slides](https://docs.google.com/presentation/d/1cor_hJ5UaXk_8y3CU4TNKpqHqou280c6bPP5h7s6qfo/edit#slide=id.p), [Paper](https://arxiv.org/abs/2308.05403)|
 | 2023-08-02 | Ali Gedawi | IBM recent quantum error mitigation results and related classical simulations  | [Slides](https://docs.google.com/presentation/d/1qZ7zkizcR2IVX4oLgA9BLIX5btXY4gwxqUSqam6DprQ/edit?usp=sharing), [Paper](https://www.nature.com/articles/s41586-023-06096-3)|
 | 2023-07-26 | Srilakshmi Palanikumar | A review of Google's Quantum Supremacy results  | [Slides](https://docs.google.com/presentation/d/1BHY9GWCFUKXHXifu00JLafg7QtX2MMkPt04vpNYMez0/edit?usp=sharing), [Paper](https://www.nature.com/articles/s41586-022-05434-1)|
 | 2023-05-28 | Min Li | Classical Shadow and its implementation on Mitiq | [Slides](https://www.dropbox.com/s/ztgh4y9nsgf4rjl/Summer_proposal__Copy_%20%283%29.pdf?dl=0), [Paper](https://arxiv.org/abs/2002.08953)|
