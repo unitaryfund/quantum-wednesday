@@ -19,7 +19,7 @@ Hope to see you there!
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
-| 2023-09-13 | Misty Wahl | Preview of Technical Paper presentation: Zero noise extrapolation on logical qubits by scaling the error correction code distance | [paper](https://arxiv.org/abs/2304.14985), (Slides will be uploaded here after IEEE presentation)|
+| 2023-09-13 | Misty Wahl | Preview of Technical Paper presentation: Zero noise extrapolation on logical qubits by scaling the error correction code distance | [paper](https://arxiv.org/abs/2304.14985), [slides](https://docs.google.com/presentation/d/1c9PhGv8witH_wJ0EXKgwXw4tvF7bfLctpHELUiEYalA/edit?usp=sharing)|
 | 2023-09-06 | UF Team    | Exploring Quantum Noise | |
 | 2023-08-23 | Misty Wahl | Fault Tolerant Quantum Error Mitigation | [paper](https://arxiv.org/abs/2308.05403), [slides](https://docs.google.com/presentation/d/1cor_hJ5UaXk_8y3CU4TNKpqHqou280c6bPP5h7s6qfo/) |
 | 2023-08-02 | Ali Gedawi | IBM recent quantum error mitigation results and related classical simulations | [paper](https://www.nature.com/articles/s41586-023-06096-3), [slides](https://docs.google.com/presentation/d/1qZ7zkizcR2IVX4oLgA9BLIX5btXY4gwxqUSqam6DprQ/) |
