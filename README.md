@@ -19,6 +19,7 @@ Hope to see you there!
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
+| 2023-11-29 | Haoran Liao | Guest talk: Machine Learning for Practical Quantum Error Mitigation | [paper](https://arxiv.org/abs/2309.17368)|
 | 2023-09-13 | Misty Wahl | Preview of Technical Paper presentation: Zero noise extrapolation on logical qubits by scaling the error correction code distance | [paper](https://arxiv.org/abs/2304.14985), [slides](https://docs.google.com/presentation/d/1c9PhGv8witH_wJ0EXKgwXw4tvF7bfLctpHELUiEYalA/edit?usp=sharing)|
 | 2023-09-06 | UF Team    | Exploring Quantum Noise |[slides](https://docs.google.com/presentation/d/1eYUEobc4NL9scAyJB2jf-IzOZF8Gf-gL-6ZI9qqXyTQ/edit#slide=id.p), [IBM resources on quantum noise](https://www.linkedin.com/posts/zlatko-minev_introduction-to-quantum-noise-part-1-activity-7112949810113953792-LQF6) |
 | 2023-08-23 | Misty Wahl | Fault Tolerant Quantum Error Mitigation | [paper](https://arxiv.org/abs/2308.05403), [slides](https://docs.google.com/presentation/d/1cor_hJ5UaXk_8y3CU4TNKpqHqou280c6bPP5h7s6qfo/) |
