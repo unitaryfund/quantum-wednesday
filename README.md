@@ -20,6 +20,7 @@ Hope to see you there!
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
 | 2023-01-20 | Davide Gessa | Qlasskit | [repo](https://github.com/dakk/qlasskit) |
+| 2023-12-20 | Farrokh | Amplitude estimation using Fourier analysis | |
 | 2023-12-13 | UF Team | QOSS Survery Results | |
 | 2023-12-06 | Nate | Enabling Dataflow Optimization for Quantum Programs | [paper](https://arxiv.org/abs/2101.11030), [slides](https://drive.google.com/file/d/1Cszym15tTVOSG6XtO_lskrFtjteIOJQ2/) |
 | 2023-11-29 | Haoran Liao | Guest talk: Machine Learning for Practical Quantum Error Mitigation | [paper](https://arxiv.org/abs/2309.17368), [slides](https://drive.google.com/file/d/13SnBLwpuZsxam68w3TW-tCOdSBN_AGTe/) |
