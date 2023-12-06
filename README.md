@@ -21,7 +21,7 @@ Hope to see you there!
 | ----------------- | --------- | ----- | ----- |
 | 2023-01-20 | Davide Gessa | Qlasskit | [repo](https://github.com/dakk/qlasskit) |
 | 2023-12-13 | UF Team | QOSS Survery Results | |
-| 2023-12-06 | Nate | Enabling Dataflow Optimization for Quantum Programs | [paper](https://arxiv.org/abs/2101.11030) |
+| 2023-12-06 | Nate | Enabling Dataflow Optimization for Quantum Programs | [paper](https://arxiv.org/abs/2101.11030), [slides](https://drive.google.com/file/d/1Cszym15tTVOSG6XtO_lskrFtjteIOJQ2/) |
 | 2023-11-29 | Haoran Liao | Guest talk: Machine Learning for Practical Quantum Error Mitigation | [paper](https://arxiv.org/abs/2309.17368), [slides](https://drive.google.com/file/d/13SnBLwpuZsxam68w3TW-tCOdSBN_AGTe/) |
 | 2023-09-27 | Nate | Interesting things from IEEE QCE | |
 | 2023-09-13 | Misty Wahl | Preview of Technical Paper presentation: Zero noise extrapolation on logical qubits by scaling the error correction code distance | [paper](https://arxiv.org/abs/2304.14985), [slides](https://docs.google.com/presentation/d/1c9PhGv8witH_wJ0EXKgwXw4tvF7bfLctpHELUiEYalA/edit?usp=sharing) |
