@@ -19,8 +19,8 @@ Hope to see you there!
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
-| 2023-01-20 | Davide Gessa | Qlasskit | [repo](https://github.com/dakk/qlasskit) |
-| 2023-01-03 | Dan | Exponential Quantum Speedup in Simulating Coupled Classical Oscillators | [paper](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.041041) |
+| 2024-01-10 | Davide Gessa | Qlasskit | [repo](https://github.com/dakk/qlasskit) |
+| 2024-01-03 | Dan | Exponential Quantum Speedup in Simulating Coupled Classical Oscillators | [paper](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.041041) |
 |  | |  | |
 | 2023-12-20 | Farrokh | Amplitude estimation using Fourier analysis | [notes](https://drive.google.com/file/d/11OhmaNHHsn7q8U5vIZ5CapO_IEIhW3jo/) |
 | 2023-12-13 | UF Team | QOSS Survery Results | [survey results](https://unitaryfund.github.io/survey-website/) |
