@@ -19,7 +19,7 @@ Hope to see you there!
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
-| 2024-01-24 | Misty | Quasi-Probabilistic Readout Correction of Mid-Circuit Measurements for Adaptive Feedback via Measurement Randomized Compiling | [paper](https://arxiv.org/abs/2312.14139) |
+| 2024-01-24 | Misty | Quasi-Probabilistic Readout Correction of Mid-Circuit Measurements for Adaptive Feedback via Measurement Randomized Compiling | [paper](https://arxiv.org/abs/2312.14139) | [slides](https://docs.google.com/presentation/d/1XlVuw0x4Mfrlp7jhCKTKToAK1rJ36hSj9_eq-9gWf58/edit?usp=sharing)
 | 2024-01-10 | Davide Gessa | Qlasskit | [repo](https://github.com/dakk/qlasskit), [slides](https://drive.google.com/file/d/1EIH3IrJah5I6u3-tU56gfpM26YPXLIVE/) |
 | 2024-01-03 | Dan | Exponential Quantum Speedup in Simulating Coupled Classical Oscillators | [paper](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.041041), [slides](https://docs.google.com/presentation/d/1liQ5GtFj5jMRv2woASsO00YUl1SxoLB3ng7vTwR3MyM/) |
 | 2023-12-20 | Farrokh | Amplitude estimation using Fourier analysis | [notes](https://drive.google.com/file/d/11OhmaNHHsn7q8U5vIZ5CapO_IEIhW3jo/) |
