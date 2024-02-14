@@ -20,7 +20,7 @@ Hope to see you there!
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
 | 2024-02-28 | Massimiliano Incudini, Francesco Di Marcantonio, Michele Grossi | Quantum Advantage Seeker with Kernels (quask): A software framework to speed up the research in quantum machine learning | [paper](https://link.springer.com/article/10.1007/s42484-023-00107-2)|
-| 2024-02-14 | Nathan | Improving Zero-noise Extrapolation for Quantum-gate Error Mitigation using a Noise-aware Folding Method | [paper](https://arxiv.org/abs/2401.12495) [slides](https://docs.google.com/presentation/d/1weiASNWhuvQrPuCiNudY0kh3F18XxHjSUdyiFY3M5Y4/)|
+| 2024-02-14 | Nathan | Improving Zero-noise Extrapolation for Quantum-gate Error Mitigation using a Noise-aware Folding Method | [paper](https://arxiv.org/abs/2401.12495), [slides](https://docs.google.com/presentation/d/1weiASNWhuvQrPuCiNudY0kh3F18XxHjSUdyiFY3M5Y4/)|
 | 2024-02-07 | Aaron Trowbridge | Quantum Optimal Control with Piccolo.jl | [paper](https://arxiv.org/abs/2305.03261), [slides](https://docs.google.com/presentation/d/1lAxYGM2o7ylLb4W30P29eQRCPeKBYIXzekFDiu1W_08/edit?usp=sharing)|
 | 2024-01-24 | Misty | Quasi-Probabilistic Readout Correction of Mid-Circuit Measurements for Adaptive Feedback via Measurement Randomized Compiling | [paper](https://arxiv.org/abs/2312.14139) , [slides](https://docs.google.com/presentation/d/1XlVuw0x4Mfrlp7jhCKTKToAK1rJ36hSj9_eq-9gWf58/edit?usp=sharing)
 | 2024-01-10 | Davide Gessa | Qlasskit | [repo](https://github.com/dakk/qlasskit), [slides](https://drive.google.com/file/d/1EIH3IrJah5I6u3-tU56gfpM26YPXLIVE/) |
