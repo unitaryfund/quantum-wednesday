@@ -19,10 +19,10 @@ Hope to see you there!
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
-| 2024-04-24 | @Misty-W | Error-Mitigated Quantum Random Access Memory  | [paper](https://arxiv.org/abs/2403.06340) |
+| 2024-04-24 | Misty | Error-Mitigated Quantum Random Access Memory  | [paper](https://arxiv.org/abs/2403.06340) |
 | 2024-04-10 | Nathan | Open Hardware Solutions in Quantum Technology | [paper](https://pubs.aip.org/aip/apq/article/1/1/011501/3267254/Open-hardware-solutions-in-quantum-technology) |
-| 2024-03-27 | Nishchay Suri | Uniformly Decaying Subspaces for Error Mitigated Quantum Computation | [paper](https://arxiv.org/abs/2403.00163) |
 | | | | |
+| 2024-03-27 | Nishchay Suri | Uniformly Decaying Subspaces for Error Mitigated Quantum Computation | [paper](https://arxiv.org/abs/2403.00163) |
 | 2024-03-20 | nate | Inverted-circuit Zero-Noise Extrapolation | [paper](https://arxiv.org/abs/2403.01608), [slides](https://drive.google.com/file/d/1vTkIBZGOR5sE6Id96e1F-jRX2xg6eH9B/) |
 | 2024-02-28 | Massimiliano Incudini, Francesco Di Marcantonio, Michele Grossi | Quantum Advantage Seeker with Kernels (quask): A software framework to speed up the research in quantum machine learning | [paper](https://link.springer.com/article/10.1007/s42484-023-00107-2)|
 | 2024-02-14 | Nathan | Improving Zero-noise Extrapolation for Quantum-gate Error Mitigation using a Noise-aware Folding Method | [paper](https://arxiv.org/abs/2401.12495), [slides](https://docs.google.com/presentation/d/1weiASNWhuvQrPuCiNudY0kh3F18XxHjSUdyiFY3M5Y4/)|
