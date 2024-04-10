@@ -20,7 +20,7 @@ Hope to see you there!
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
 | 2024-04-24 | Misty | Error-Mitigated Quantum Random Access Memory  | [paper](https://arxiv.org/abs/2403.06340) |
-| 2024-04-10 | Nathan | Open Hardware Solutions in Quantum Technology | [paper](https://pubs.aip.org/aip/apq/article/1/1/011501/3267254/Open-hardware-solutions-in-quantum-technology) |
+| 2024-04-10 | Nathan | Open Hardware Solutions in Quantum Technology | [paper](https://pubs.aip.org/aip/apq/article/1/1/011501/3267254/Open-hardware-solutions-in-quantum-technology) [slides](https://docs.google.com/presentation/d/1pxvgFRoU75GuFEsVB3r5IhZRvCmsFxL34KVg90C8ZSY/edit?usp=sharing) |
 | | | | |
 | 2024-03-27 | Nishchay Suri | Uniformly Decaying Subspaces for Error Mitigated Quantum Computation | [paper](https://arxiv.org/abs/2403.00163), [slides](https://drive.google.com/file/d/1xplIHHNy6hLzxK86pFpsWMrdK4x_3kHg/) |
 | 2024-03-20 | nate | Inverted-circuit Zero-Noise Extrapolation | [paper](https://arxiv.org/abs/2403.01608), [slides](https://drive.google.com/file/d/1vTkIBZGOR5sE6Id96e1F-jRX2xg6eH9B/) |
