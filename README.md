@@ -20,7 +20,7 @@ Hope to see you there!
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
 | 2024-05-01 | Jordan | Has IBM "cracked the code" for quantum memory? | [paper](https://www.nature.com/articles/s41586-024-07107-7) |
-| 2024-04-24 | Misty | Error-Mitigated Quantum Random Access Memory  | [paper](https://arxiv.org/abs/2403.06340) |
+| 2024-04-24 | Misty | Error-Mitigated Quantum Random Access Memory  | [paper](https://arxiv.org/abs/2403.06340), [slides](https://docs.google.com/presentation/d/1oJ7vtR-ycmOTJ-XGgkUWlXE88J1QIL20xV_MWJo8Wu4/edit#slide=id.g2ceb2147382_0_34) |
 | | | | |
 | 2024-04-17 | Purva | RFC Review: Layerwise Richardson Extrapolation | [issue](https://github.com/unitaryfund/mitiq/issues/2224), [slides](https://docs.google.com/presentation/d/1kuBRfv7KW767Mxez9WLf1CCokqkmj1bbDqSv7vCy-8w/)|
 | 2024-04-10 | Nathan | Open Hardware Solutions in Quantum Technology | [paper](https://pubs.aip.org/aip/apq/article/1/1/011501/3267254/Open-hardware-solutions-in-quantum-technology), [slides](https://docs.google.com/presentation/d/1pxvgFRoU75GuFEsVB3r5IhZRvCmsFxL34KVg90C8ZSY/) |
