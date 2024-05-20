@@ -19,7 +19,13 @@ Hope to see you there!
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
-| 2024-05-01 | Jordan | Has IBM "cracked the code" for quantum memory? | [paper](https://www.nature.com/articles/s41586-024-07107-7), [presentation](https://drive.google.com/file/d/1k0XqaKg5-NyaWyAfyPh1b2v7rsoQGfj_/view?usp=sharing) |
+| 2024-07-03 | Aleksandr (Alex) Berezutskii | mdopt -- decoding quantum and classical error correcting codes in the MPS-MPO formalism | |
+| 2024-06-05 | Brian Goldsmith | Survey of Quantum Resource Estimation Tools | |
+| 2024-05-29 | Ella Carlander, Ruhee Nirodi, and Alexandros Peltekis | Error Mitigation Benchmarking Pipeline (UW capstone project) | |
+| **2024-05-22** | Kallie + Dan | Let's hack! How to maximize your impact at unitaryHACK 2024 | [`unitaryhack.dev`](https://unitaryhack.dev/) |
+| | | | |
+| 2024-05-15 | Matthew Chang, Eric Yarnot, Skylar Chan, Jeffrey Kwan, Wilson Smith, Marco Qin | QRISE 2024 Unitary Fund Challenge Winner Presentations | [challenge](https://github.com/quantumcoalition/qrise2024-unitaryfund-challenge); [Team MACS slides](https://docs.google.com/presentation/d/1yon6rxWU0HIUhocD4tLh1sFQuOb4BjoyMAF2kIBgfMo/), [DNA Game slides](https://docs.google.com/presentation/d/1mhdlCzy-aBO6r9H13SHp1FXwDKRxwbk_U_Si6TWvIo0/) |
+| 2024-05-01 | Jordan | Has IBM "cracked the code" for quantum memory? | [paper](https://www.nature.com/articles/s41586-024-07107-7), [slides](https://drive.google.com/file/d/1k0XqaKg5-NyaWyAfyPh1b2v7rsoQGfj_/view?usp=sharing) |
 | 2024-04-24 | Misty | Error-Mitigated Quantum Random Access Memory  | [paper](https://arxiv.org/abs/2403.06340), [slides](https://docs.google.com/presentation/d/1oJ7vtR-ycmOTJ-XGgkUWlXE88J1QIL20xV_MWJo8Wu4/) |
 | 2024-04-17 | Purva | RFC Review: Layerwise Richardson Extrapolation | [issue](https://github.com/unitaryfund/mitiq/issues/2224), [slides](https://docs.google.com/presentation/d/1kuBRfv7KW767Mxez9WLf1CCokqkmj1bbDqSv7vCy-8w/)|
 | 2024-04-10 | Nathan | Open Hardware Solutions in Quantum Technology | [paper](https://pubs.aip.org/aip/apq/article/1/1/011501/3267254/Open-hardware-solutions-in-quantum-technology), [slides](https://docs.google.com/presentation/d/1pxvgFRoU75GuFEsVB3r5IhZRvCmsFxL34KVg90C8ZSY/) |
