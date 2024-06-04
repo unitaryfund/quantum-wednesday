@@ -22,7 +22,7 @@ Hope to see you there!
 | 2024-07-03 | Aleksandr (Alex) Berezutskii | mdopt -- decoding quantum and classical error correcting codes in the MPS-MPO formalism | |
 | **2024-06-05** | Brian Goldsmith | Survey of Quantum Resource Estimation Tools | |
 | | | | |
-| 2024-05-29 | Ella Carlander, Ruhee Nirodi, and Alexandros Peltekis | Error Mitigation Benchmarking Pipeline (UW capstone project) | [repo](https://github.com/AlexandrosPeltekis/ErrorMit) |
+| 2024-05-29 | Ella Carlander, Ruhee Nirodi, and Alexandros Peltekis | Error Mitigation Benchmarking Pipeline (UW capstone project) | [repo](https://github.com/AlexandrosPeltekis/ErrorMit), [slides](https://docs.google.com/presentation/d/11FEIywpcXSVNXL2N5nLfeunERBHIylx5CP0Rcy66320/) |
 | 2024-05-22 | Kallie + Dan | Let's hack! How to maximize your impact at unitaryHACK 2024 | [`unitaryhack.dev`](https://unitaryhack.dev/) |
 | 2024-05-15 | Matthew Chang, Eric Yarnot, Skylar Chan, Jeffrey Kwan, Wilson Smith, Marco Qin | QRISE 2024 Unitary Fund Challenge Winner Presentations | [challenge](https://github.com/quantumcoalition/qrise2024-unitaryfund-challenge); [Team MACS slides](https://docs.google.com/presentation/d/1yon6rxWU0HIUhocD4tLh1sFQuOb4BjoyMAF2kIBgfMo/), [DNA Game slides](https://docs.google.com/presentation/d/1mhdlCzy-aBO6r9H13SHp1FXwDKRxwbk_U_Si6TWvIo0/) |
 | 2024-05-01 | Jordan | Has IBM "cracked the code" for quantum memory? | [paper](https://www.nature.com/articles/s41586-024-07107-7), [slides](https://drive.google.com/file/d/1k0XqaKg5-NyaWyAfyPh1b2v7rsoQGfj_/view?usp=sharing) |
