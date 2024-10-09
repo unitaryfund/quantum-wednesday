@@ -20,7 +20,7 @@ Hope to see you there!
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
 | 2024-09-25 | Will Zeng | Towards violations of Local Friendliness using quantum computers |  |
-| 2024-09-18 | Farrokh Labib | Quantum amplitude estimation from classical signal processing | [paper](https://arxiv.org/abs/2405.14697), [slides](https://drive.google.com/file/d/1_z-Rbpg40g0j0B0w_gIWJC0ZldIDzafL/view?usp=drive_link) |
+| 2024-09-18 | Farrokh Labib | Quantum amplitude estimation from classical signal processing | [paper](https://arxiv.org/abs/2405.14697), [notebook](https://drive.google.com/file/d/1_z-Rbpg40g0j0B0w_gIWJC0ZldIDzafL/view?usp=drive_link) |
 | 2024-09-04 | Joao Carlos De Andrade Getelina | Error Mitigation with Quantum Subspace Expansion | [paper](https://arxiv.org/abs/2404.09132), [slides](https://docs.google.com/presentation/d/1MFyj3-ZzxUsmlI06E22fbPHn8noAzVT-/) |
 | 2024-07-31 | Gregory Quiroz | Dynamically Generated Decoherence-Free Subspaces and Subsystems on Superconducting Qubits | [paper](https://arxiv.org/abs/2402.07278) |
 | 2024-07-03 | Aleksandr (Alex) Berezutskii | mdopt -- decoding quantum and classical error correcting codes in the MPS-MPO formalism | [repo](https://github.com/quicophy/mdopt) |
