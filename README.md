@@ -19,7 +19,7 @@ Hope to see you there!
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
-| 2024-09-25 | Will Zeng | Towards violations of Local Friendliness using quantum computers |  |
+| 2024-09-25 | Will Zeng | Towards violations of Local Friendliness using quantum computers | [paper](https://arxiv.org/abs/2409.15302) [talk](https://willzeng.com/shared/LF_09.25.2024.pdf) |
 | 2024-07-31 | Gregory Quiroz | Dynamically Generated Decoherence-Free Subspaces and Subsystems on Superconducting Qubits | [paper](https://arxiv.org/abs/2402.07278) |
 | 2024-07-03 | Aleksandr (Alex) Berezutskii | mdopt -- decoding quantum and classical error correcting codes in the MPS-MPO formalism | [repo](https://github.com/quicophy/mdopt) |
 | 2024-06-05 | Brian Goldsmith | Survey of Quantum Resource Estimation Tools | [slides](https://docs.google.com/presentation/d/1rXQqK8UALlV7zR5MkY2znfTAXlua6s53xRJFPXlYfKI) |
