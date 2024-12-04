@@ -19,7 +19,7 @@ Hope to see you there!
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
-| 2024-12-04 | nate | On negative results for QEM | |
+| 2024-12-11 | Misty | Practical and efficient quantum circuit synthesis and transpiling with Reinforcement Learning | [paper](https://arxiv.org/abs/2405.13196) |
 | 2024-10-23 | Jen Eisert (youtube) |  Fundamental limits to quantum computation | [video](https://www.youtube.com/watch?v=NhNB_Z50vII) |
 | 2024-09-25 | Will Zeng | Towards violations of Local Friendliness using quantum computers | [paper](https://arxiv.org/abs/2409.15302) [talk](https://willzeng.com/shared/LF_09.25.2024.pdf) |
 | 2024-09-18 | Farrokh Labib | Quantum amplitude estimation from classical signal processing | [paper](https://arxiv.org/abs/2405.14697), [notebook](https://drive.google.com/file/d/1_z-Rbpg40g0j0B0w_gIWJC0ZldIDzafL/view?usp=drive_link) |
