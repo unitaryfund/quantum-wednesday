@@ -2,17 +2,13 @@
 
 On Wednesdays at 5:30PM UTC the Unitary Fund hosts "Quantum Wednesday" (QW).
 The event is an hour long and generally pertains to quantum computing related topics.
-The main types of events are
-
-- Invited speaker
-- Paper review
-- Focussed discussion/forum
-- Social coding
-- Mitiq office hours
 
 The events are hosted on our [discord](http://discord.unitary.fund), and are open for all to attend, regardless of quantum computing knowledge/skill.
 We encourage questions, and engagement from community members, but listening in is also completely acceptable.
 Hope to see you there!
+
+
+If you're interested in giving a talk, please get in contact with a Unitary Fund staff member if you have any questions, otherwise use the [sign up form](https://airtable.com/shrHy03c3aQWc7Amk)!
 
 
 ## Meetings
@@ -160,6 +156,3 @@ Hope to see you there!
 | 2020-02-18 | Tudor + Andrea | Update on adaptive exponential fitting research |  |
 | 2020-02-11 | Yousef | Probabilistic Error Cancellation | [paper](https://arxiv.org/abs/1612.02058), [slides](https://docs.google.com/presentation/d/1JoFjtXkffLEnvYRVkpw63Agw7iZE8YNzzwnOGJ60wbc/)  |
 | 2020-02-04 | Andrea | Quantum Transfer Learning | [paper](https://arxiv.org/abs/1912.08278) |
-
-
-If you're interested in giving a talk use the [sign up form](https://airtable.com/shrHy03c3aQWc7Amk)!
