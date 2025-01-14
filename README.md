@@ -1,21 +1,21 @@
 # Quantum Wednesday
 
-On Wednesdays at 5:30PM UTC the Unitary Fund hosts "Quantum Wednesday" (QW).
+On Wednesdays at 5:30PM UTC the Unitary Foundation hosts "Quantum Wednesday" (QW).
 The event is an hour long and generally pertains to quantum computing related topics.
 
-The events are hosted on our [discord](http://discord.unitary.fund), and are open for all to attend, regardless of quantum computing knowledge/skill.
+The events are hosted on our [discord](http://discord.unitary.foundation), and are open for all to attend, regardless of quantum computing knowledge/skill.
 We encourage questions, and engagement from community members, but listening in is also completely acceptable.
 Hope to see you there!
 
 
-If you're interested in giving a talk, please get in contact with a Unitary Fund staff member if you have any questions, otherwise use the [sign up form](https://airtable.com/shrHy03c3aQWc7Amk)!
+If you're interested in giving a talk, please get in contact with a Unitary Foundation staff member if you have any questions, otherwise use the [sign up form](https://airtable.com/shrHy03c3aQWc7Amk)!
 
 
 ## Meetings
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
-| 2024-12-18 | Misty Wahl | Practical and efficient quantum circuit synthesis and transpiling with Reinforcement Learning | [paper](https://arxiv.org/abs/2405.13196), [slides](https://docs.google.com/presentation/d/1HQpHmc2qT58L0gllqbL5ckWyGzHUfjQ-YxQPw_k1FhQ/edit?usp=sharing) |
+| 2024-12-18 | Misty Wahl | Practical and efficient quantum circuit synthesis and transpiling with Reinforcement Learning | [paper](https://arxiv.org/abs/2405.13196), [slides](https://docs.google.com/presentation/d/1HQpHmc2qT58L0gllqbL5ckWyGzHUfjQ-YxQPw_k1FhQ/) |
 | 2024-12-11 | Jeongwan Haah (youtube) | What is Your Logical Qubit? | [video](https://www.youtube.com/watch?v=l4smz_J8f1E) |
 | 2024-10-23 | Jen Eisert (youtube) |  Fundamental limits to quantum computation | [video](https://www.youtube.com/watch?v=NhNB_Z50vII) |
 | 2024-09-25 | Will Zeng | Towards violations of Local Friendliness using quantum computers | [paper](https://arxiv.org/abs/2409.15302) [talk](https://willzeng.com/shared/LF_09.25.2024.pdf) |
