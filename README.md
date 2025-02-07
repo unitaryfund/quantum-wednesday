@@ -15,6 +15,7 @@ If you're interested in giving a talk, please get in contact with a Unitary Foun
 
 | Date (YYYY-MM-DD) | Presenter | Title | Links |
 | ----------------- | --------- | ----- | ----- |
+| 2025-02-12 | Changhao Li | Benchmarking Quantum Processor Performance at Scale | [paper](https://arxiv.org/abs/2311.05933) |
 | 2024-12-18 | Misty Wahl | Practical and efficient quantum circuit synthesis and transpiling with Reinforcement Learning | [paper](https://arxiv.org/abs/2405.13196), [slides](https://docs.google.com/presentation/d/1HQpHmc2qT58L0gllqbL5ckWyGzHUfjQ-YxQPw_k1FhQ/) |
 | 2024-12-11 | Jeongwan Haah (youtube) | What is Your Logical Qubit? | [video](https://www.youtube.com/watch?v=l4smz_J8f1E) |
 | 2024-10-23 | Jen Eisert (youtube) |  Fundamental limits to quantum computation | [video](https://www.youtube.com/watch?v=NhNB_Z50vII) |
