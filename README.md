@@ -19,7 +19,7 @@ If you're interested in giving a talk, please get in contact with a Unitary Foun
 | 2025-03-19 | nate | How to Build a Quantum Supercomputer | [paper](https://arxiv.org/abs/2411.10406) |
 | 2025-03-12 | Alejandro Montanez | Evaluating the performance of quantum process units at large width and depth | [paper](https://arxiv.org/abs/2502.06471), [repo](https://github.com/alejomonbar/LR-QAOA-QPU-Benchmarking), [slides](https://github.com/alejomonbar/LR-QAOA-QPU-Benchmarking/blob/main/Figures/LR-QAOA-UF.pdf) |
 | 2025-03-05 | nate | The Potential Impact of Quantum Computers on Society | [paper](https://arxiv.org/abs/1712.05380) |
-| 2025-02-26 | Ioana Moflic | Pandora: Ultra-Large-Scale Quantum Circuit Design Automation | [repo](https://github.com/ioanamoflic/pandora) |
+| 2025-02-26 | Ioana Moflic | Pandora: Ultra-Large-Scale Quantum Circuit Design Automation | [repo](https://github.com/ioanamoflic/pandora), [slides](https://drive.google.com/file/d/1YtKvDAwgnrTZr-dr5VL-6CuLDOH-zb0V/view?usp=sharing) |
 | 2025-02-12 | Changhao Li | Benchmarking Quantum Processor Performance at Scale | [paper](https://arxiv.org/abs/2311.05933), [slides](https://drive.google.com/file/d/1OLVRrDqjfOb4m17tiCfueFbw97rHOlkq/view?usp=sharing) |
 | 2025-01-22 | [Alessandro](https://github.com/cosenal) | Coding intermediate-stage quantum benchmarks | [notebook](https://gist.github.com/cosenal/172f1c42194ce50d6e991ab931dd6d45) |
 | 2024-12-18 | Misty Wahl | Practical and efficient quantum circuit synthesis and transpiling with Reinforcement Learning | [paper](https://arxiv.org/abs/2405.13196), [slides](https://docs.google.com/presentation/d/1HQpHmc2qT58L0gllqbL5ckWyGzHUfjQ-YxQPw_k1FhQ/) |
