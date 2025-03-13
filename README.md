@@ -17,7 +17,7 @@ If you're interested in giving a talk, please get in contact with a Unitary Foun
 | ----------------- | --------- | ----- | ----- |
 | 2025-03-26 | nate | Virtual Distillation Demo | [RFC](https://docs.google.com/document/d/1833IaqzpJ7DbfasgXt59AA93fJk4_EUDfBV4yNHHyic/) |
 | 2025-03-19 | nate | How to Build a Quantum Supercomputer | [paper](https://arxiv.org/abs/2411.10406) |
-| 2025-03-12 | Alejandro Montanez | Evaluating the performance of quantum process units at large width and depth | [paper](https://arxiv.org/abs/2502.06471) | [repo](https://github.com/alejomonbar/LR-QAOA-QPU-Benchmarking) | [slides](https://github.com/alejomonbar/LR-QAOA-QPU-Benchmarking/blob/main/Figures/LR-QAOA-UF.pdf)
+| 2025-03-12 | Alejandro Montanez | Evaluating the performance of quantum process units at large width and depth | [paper](https://arxiv.org/abs/2502.06471), [repo](https://github.com/alejomonbar/LR-QAOA-QPU-Benchmarking), [slides](https://github.com/alejomonbar/LR-QAOA-QPU-Benchmarking/blob/main/Figures/LR-QAOA-UF.pdf) |
 | 2025-03-05 | nate | The Potential Impact of Quantum Computers on Society | [paper](https://arxiv.org/abs/1712.05380) |
 | 2025-02-26 | Ioana Moflic | Pandora: Ultra-Large-Scale Quantum Circuit Design Automation | [repo](https://github.com/ioanamoflic/pandora) |
 | 2025-02-12 | Changhao Li | Benchmarking Quantum Processor Performance at Scale | [paper](https://arxiv.org/abs/2311.05933), [slides](https://drive.google.com/file/d/1OLVRrDqjfOb4m17tiCfueFbw97rHOlkq/view?usp=sharing) |
